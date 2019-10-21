@@ -1,0 +1,11 @@
+.box_payu{
+	width: 30%;
+}
+#datos_payu{
+	border: none;
+	width: 100%;
+}
+.float_payu{
+	position: static;
+	z-index: 1000;
+}
